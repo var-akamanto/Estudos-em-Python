@@ -1,0 +1,2 @@
+import funMenu
+funMenu.menu()
